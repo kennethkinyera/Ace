@@ -1,0 +1,11 @@
+{
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/composer/composer.git"
+    }
+],
+"require": {
+    "composer/composer": "dev-master#775f6cd5c633facf2e7b99611fdcaa900b58ddb7"
+}
+}
